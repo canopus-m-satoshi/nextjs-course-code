@@ -7,7 +7,7 @@ function SelectedClientProjectPage() {
 
   return (
     <div>
-      <h1>The Portfolio Page for a aSpecific Project for a Selected Client</h1>
+      <h1>The Portfolio Page for a Specific Project for a Selected Client</h1>
     </div>
   );
 }
